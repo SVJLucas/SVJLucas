@@ -99,7 +99,7 @@ My involvement in this program has provided me with the opportunity to collabora
 
 <h3 align="left">:earth_americas:  Connect with me</h3>
 
-<a href="www.linkedin.com/in/lucasjosevelosodesouza">
+<a href="https://www.linkedin.com/in/lucasjosevelosodesouza">
     <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
 <a/>
 
@@ -113,7 +113,7 @@ My involvement in this program has provided me with the opportunity to collabora
 <h3 align="left"> :pushpin: My Projects</h3>
 
 <p align="left">
-I've undertaken numerous projects spanning a diverse range of fields, all of which are consolidated into repositories on my GitHub. These projects encompass personal initiatives, academic coursework, internships, and research endeavors. You'll discover a wide variety of subjects within, including Inference, Optimization, Mathematics, Programming, and Algorithms, among others!
+I've undertaken numerous projects spanning a diverse range of fields, all of which are consolidated into repositories on my GitHub. These projects encompass personal initiatives, academic coursework, internships, and research endeavors. You'll discover a wide variety of subjects within, including Inference, Optimization, Mathematics, Programming, Software Development and Algorithms, among others!
 </p>
 
 ## Looking forward to...
