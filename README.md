@@ -25,7 +25,7 @@ class LucasJose(ExcellentProgrammer):
         
         return { 
                 "professional": ["ML/AI", "software_architecture", "algorithm_design", "devops", "deep_learning", "data_science"],
-                "hobbies": ["open_source_contributions", "code_review", "puzzles", "design_patterns", "jazz", "astronomy","travels"],
+                "hobbies": ["open_source_contributions", "code_review", "puzzles", "comedy", "astronomy","travels"],
                 "4fun": ["advanced_programming", "3D_modeling", "exploring_new_AI_technologies"]
                 }
 
