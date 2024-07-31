@@ -4,9 +4,9 @@
 
 ## About Me 🚀
 
-I am a versatile software developer, machine learning enthusiast, and data scientist, currently leading the Google Developer Student Club (GDSC) at CentraleSupelec, working on several development fronts: frontend, backend, devops, cloud, mobile, artificial intelligence. My passion lies in developing reliable and scalable software, especially backend.
+I am a versatile software developer, machine learning researcher, and data scientist, currently leading the Google Developer Student Club (GDSC) at CentraleSupelec, working on several development fronts: frontend, backend, devops, cloud, mobile, artificial intelligence. My passion lies in developing reliable and scalable software, especially backend.
 
-I am privileged to have worked with diverse and talented teams across continents. My recent experience includes being a part of Google Summer of Code's Machine Learning for Science Program, where I researched AI in computer vision (Vision Transformers) for detecting space distortion due to Dark Matter. 
+I am privileged to have worked with diverse and talented teams across continents. My recent experience includes being a part of Google Summer of Code's Machine Learning for Science Program, where I researched AI in computer vision (Vision Transformers) for detecting space distortion due to Dark Matter as well working in Amazon.
 
 ```yml
 from Persistence import Excellence
