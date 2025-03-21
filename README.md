@@ -42,6 +42,22 @@ class LucasJose(ExcellentProgrammer):
 ```
 ---
 
+## Recent Work Experiences
+
+### NEW - March 21, 2025: Joining Google DeepMind
+I'm excited to share that I'll be moving to **London, United Kingdom** to take on the role of **Research Engineer** at **Google DeepMind**! My focus will be on **sustainability** and the environment, contributing to innovative **machine learning** solutions that help make the world a better place.
+
+<h3 align="center">
+<img src="https://github.com/user-attachments/assets/9e7e7de3-c5dc-4edb-bd25-fd4484ed5eba" alt="DeepMind!" width=500>
+</h3>
+
+### May 5, 2024: Data Science Intern at Amazon
+I'm thrilled to announce that I'll be starting a **Data Science Internship** at Amazon! I'll be working on Data Analysis and Prediction in **Paris, France**, focusing on areas like machine learning, data analysis, and data analytics. Excited for the opportunity to grow and contribute to impactful projects at Amazon!
+
+<h3 align="center">
+<img src="https://github.com/user-attachments/assets/95a9da96-b68c-4604-84ed-c39ec90c8e1f" alt="DeepMind!" width=250>
+</h3>
+
 ## :man_technologist: My Involvement with Google's Developer Programs
 
 ### :mortar_board: Google Developer Student Club Lead (GDSC)
