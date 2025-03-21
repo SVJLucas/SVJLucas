@@ -1,6 +1,6 @@
 #  Lucas José
 
-**`Researcher Engineer`**
+**`Researcher Engineer @ Google DeepMind`**
 
 ## About Me 🚀
 
