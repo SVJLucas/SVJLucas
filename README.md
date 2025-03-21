@@ -78,7 +78,7 @@ Reliable and scalable software development, in conjunction with backend developm
 ### :computer: Google Summer of Code (GSoC)
 
 <p align="center">
-  <img width="400" alt="Google_Summer_of_Code_logo_(2021) svg (1)" src="https://github.com/SVJLucas/SVJLucas/assets/60625769/6f445eef-31f0-4067-8cb8-22a3fb6e9bd5">
+  <img width="350" alt="Google_Summer_of_Code_logo_(2021) svg (1)" src="https://github.com/SVJLucas/SVJLucas/assets/60625769/6f445eef-31f0-4067-8cb8-22a3fb6e9bd5">
 </p>
 
 
