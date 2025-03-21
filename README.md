@@ -58,7 +58,7 @@ I'm excited to share that I'll be moving to **London, United Kingdom** to take o
 I'm thrilled to announce that I'll be starting a **Data Science Internship** at Amazon! I'll be working on Data Analysis and Prediction in **Paris, France**, focusing on areas like machine learning, data analysis, and data analytics. Excited for the opportunity to grow and contribute to impactful projects at Amazon!
 
 <h3 align="center">
-<img src="https://github.com/user-attachments/assets/1c823a8d-c903-458b-a5fd-f059fbc73cab" alt="Amazon!" width=150>
+<img src="https://github.com/user-attachments/assets/1c823a8d-c903-458b-a5fd-f059fbc73cab" alt="Amazon!" width=130>
 </h3>
 
 ## :man_technologist: My Involvement with Google's Developer Programs
