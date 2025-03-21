@@ -35,7 +35,7 @@ class LucasJose(ExcellentProgrammer):
 
     def goals_for_this_year(self):
 
-        return self.participate_and_improve(["global_ai_research"]) \\
+        return self.colaborate(["artificial_intelligence_research"]) \\
                and self.contribute_to_open_source() \\
                and Excellence("everything")
 
