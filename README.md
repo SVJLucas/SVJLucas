@@ -1,6 +1,6 @@
 #  Lucas José
 
-**` Researcher Engineer`**
+**`Researcher Engineer`**
 
 ## About Me 🚀
 
