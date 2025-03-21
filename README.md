@@ -43,8 +43,22 @@ class LucasJose(ExcellentProgrammer):
 ```
 ---
 
+## Recent Work Experiences
+
+### NEW - March 21, 2025: Joining Google DeepMind
+I'm excited to share that I'll be moving to **London, United Kingdom** to take on the role of **Research Engineer** at **Google DeepMind**! My focus will be on **sustainability** and the environment, contributing to innovative **machine learning** solutions that help make the world a better place.
+
 <h3 align="center">
 <img src="https://github.com/user-attachments/assets/40405bbc-3e26-4cb6-a5aa-9a022699a583" alt="DeepMind!" width=250>
+</h3>
+
+
+
+### May 5, 2024: Data Science Intern at Amazon
+I'm thrilled to announce that I'll be starting a **Data Science Internship** at Amazon! I'll be working on Data Analysis and Prediction in **Paris, France**, focusing on areas like machine learning, data analysis, and data analytics. Excited for the opportunity to grow and contribute to impactful projects at Amazon!
+
+<h3 align="center">
+<img src="https://github.com/user-attachments/assets/1c823a8d-c903-458b-a5fd-f059fbc73cab" alt="Amazon!" width=150>
 </h3>
 
 ## :man_technologist: My Involvement with Google's Developer Programs
@@ -52,7 +66,7 @@ class LucasJose(ExcellentProgrammer):
 ### :mortar_board: Google Developer Student Club Lead (GDSC)
 
 <p align="center">
-  <img width="500" alt="logo_dark_stacked_KzUurne (1)" src="https://github.com/SVJLucas/SVJLucas/assets/60625769/1501cb07-3add-4907-9778-10b90c223e69">
+  <img width="300" alt="logo_dark_stacked_KzUurne (1)" src="https://github.com/SVJLucas/SVJLucas/assets/60625769/1501cb07-3add-4907-9778-10b90c223e69">
 
 </p>
 
@@ -64,7 +78,7 @@ Reliable and scalable software development, in conjunction with backend developm
 ### :computer: Google Summer of Code (GSoC)
 
 <p align="center">
-  <img width="600" alt="Google_Summer_of_Code_logo_(2021) svg (1)" src="https://github.com/SVJLucas/SVJLucas/assets/60625769/6f445eef-31f0-4067-8cb8-22a3fb6e9bd5">
+  <img width="400" alt="Google_Summer_of_Code_logo_(2021) svg (1)" src="https://github.com/SVJLucas/SVJLucas/assets/60625769/6f445eef-31f0-4067-8cb8-22a3fb6e9bd5">
 </p>
 
 
