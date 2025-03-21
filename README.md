@@ -43,7 +43,7 @@ class LucasJose(ExcellentProgrammer):
 ```
 ---
 
-## Recent Work Experiences
+## 💼 Recent Work Experiences
 
 ### NEW - March 21, 2025: Joining Google DeepMind
 I'm excited to share that I'll be moving to **London, United Kingdom** to take on the role of **Research Engineer** at **Google DeepMind**! My focus will be on **sustainability** and the environment, contributing to innovative **machine learning** solutions that help make the world a better place.
