@@ -6,6 +6,10 @@
 
 I am a versatile software developer, machine learning researcher, and data scientist, currently leading the Google Developer Student Club (GDSC) at CentraleSupelec, working on several development fronts: frontend, backend, devops, cloud, mobile, artificial intelligence. My passion lies in developing reliable and scalable software, especially backend.
 
+<h3 align="center">
+<img src="https://github.com/user-attachments/assets/f99ef2a7-82e1-4405-ae78-42d661e81d2f" alt="Creating Amazing Projects!" width=250>
+</h3>
+
 I am privileged to have worked with diverse and talented teams across continents. My recent experience includes being a part of Google Summer of Code's Machine Learning for Science Program, where I researched AI in computer vision (Vision Transformers) for detecting space distortion due to Dark Matter as well working in Amazon.
 
 ```yml
