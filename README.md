@@ -26,15 +26,16 @@ class LucasJose(ExcellentProgrammer):
     def im_interested_in(self):
         
         return { 
-                "professional": ["ML/AI", "software_architecture", "algorithm_design", "devops", "deep_learning", "data_science"],
+                "professional": ["machine_learning", "deep_learning",
+                                 "algorithm_design", "data_science"],
                 "hobbies": ["open_source_contributions", "code_review", "puzzles", "comedy", "astronomy","travels"],
                 "4fun": ["advanced_programming", "3D_modeling", "exploring_new_AI_technologies"]
                 }
 
-    def goals_2023(self):
+    def goals_this_year(self):
 
         return learn(["microservices", "cloud_architecture", "system_design", "advanced_algorithms"]) \\
-               and improve(["software_engineering_skills", "programming_skills", "devops_skills", "machine_learning_skills", "data_science_skills"]) \\
+               and improve(["software_engineering_skills", "machine_learning_skills"]) \\
                and contribute_to_open_source_and_AI_research(self.country) \\
                and Excellence("everything")
 
