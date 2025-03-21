@@ -130,8 +130,11 @@ I am always on the lookout for challenging opportunities in software development
 
 
 <h3 align="center">
-<img src="https://github.com/user-attachments/assets/86a130ec-9a74-4084-acd3-a95f1711d422" alt="Creating Amazing Projects!" width=250>
+<img src="https://github.com/user-attachments/assets/f99ef2a7-82e1-4405-ae78-42d661e81d2f" alt="Creating Amazing Projects!" width=250>
 </h3>
+
+
+
 
 
 
