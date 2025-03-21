@@ -25,17 +25,13 @@ class LucasJose(ExcellentProgrammer):
 
     def im_interested_in(self):
         
-        return { 
-                "professional": ["machine_learning", "deep_learning",
-                                 "algorithm_design", "data_science"],
-                "hobbies": ["teaching", "reading_papers",
-                            "volunteering_for_social_causes"]
-                }
+        return ["machine_learning", "deep_learning",
+                "algorithm_design", "data_science"]
 
     def goals_for_this_year(self):
 
-        return improve(["global_ai_research", "interdisciplinary_collaboration", "algorithm_fairness"]) \\
-               and contribute_to_open_source_and_AI_research(self.country) \\
+        return self.participate_and_improve(["global_ai_research"]) \\
+               and self.contribute_to_open_source() \\
                and Excellence("everything")
 
 
