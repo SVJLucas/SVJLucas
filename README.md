@@ -18,8 +18,10 @@ class LucasJose(ExcellentProgrammer):
     
         self.country = "Brazil"
         self.current_city = "Paris_FRA"
-        self.current_job = "Software Engineer & AI Researcher"
-        self.universities = ["CentraleSupelec (CS) - France", "Aeronautics Institute of Technology (ITA) - Brazil"]
+        self.current_job = "Research Engineer"
+        self.past_companies = ["Amazon"]
+        self.universities = ["CentraleSupelec (CS) - France",
+                             "Aeronautics Institute of Technology (ITA) - Brazil"]
 
     def im_interested_in(self):
         
