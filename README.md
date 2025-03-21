@@ -1,6 +1,6 @@
 #  Lucas José
 
-**`Software Engineer - Data Scientist - Machine Learning Researcher - AI Advocate`**
+**` Researcher Engineer`**
 
 ## About Me 🚀
 
