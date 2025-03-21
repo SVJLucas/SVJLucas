@@ -28,14 +28,13 @@ class LucasJose(ExcellentProgrammer):
         return { 
                 "professional": ["machine_learning", "deep_learning",
                                  "algorithm_design", "data_science"],
-                "hobbies": ["open_source_contributions", "code_review", "puzzles", "comedy", "astronomy","travels"],
-                "4fun": ["advanced_programming", "3D_modeling", "exploring_new_AI_technologies"]
+                "hobbies": ["teaching", "reading_papers",
+                            "volunteering_for_social_causes"]
                 }
 
-    def goals_this_year(self):
+    def goals_for_this_year(self):
 
-        return learn(["microservices", "cloud_architecture", "system_design", "advanced_algorithms"]) \\
-               and improve(["software_engineering_skills", "machine_learning_skills"]) \\
+        return improve(["global_ai_research", "interdisciplinary_collaboration", "algorithm_fairness"]) \\
                and contribute_to_open_source_and_AI_research(self.country) \\
                and Excellence("everything")
 
@@ -130,19 +129,9 @@ I am always on the lookout for challenging opportunities in software development
 <h3 align="center">Thanks for your visit! Stay on the lookout, more to come soon! :)</h3>
 
 
-<p align="center">
-&nbsp;___________________<br />
-/ &nbsp;____________________ &nbsp;\<br />
-||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br />
-||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loading...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||<br />
-|| &nbsp;____________________ &nbsp;&nbsp;||<br />
-&nbsp;\ &nbsp;____________________ &nbsp;/<br />
-&nbsp;&nbsp;&nbsp;(______) <br />
-&nbsp;&nbsp;&nbsp;/~~~~~~~~~~~~\ <br />
-&nbsp;&nbsp;&nbsp;(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;) <br />
-&nbsp;&nbsp;&nbsp;\___________________/ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developing<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amazing<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projects!<br />
-</p>
+<h3 align="center">
+<img src="https://github.com/user-attachments/assets/86a130ec-9a74-4084-acd3-a95f1711d422" alt="Creating Amazing Projects!" width=250>
+</h3>
+
+
 
