@@ -2,6 +2,7 @@
 
 **`Researcher Engineer @ Google DeepMind`**
 
+
 ## About Me 🚀
 
 I am a versatile software developer, machine learning researcher, and data scientist, currently leading the Google Developer Student Club (GDSC) at CentraleSupelec, working on several development fronts: frontend, backend, devops, cloud, mobile, artificial intelligence. My passion lies in developing reliable and scalable software, especially backend.
@@ -41,6 +42,10 @@ class LucasJose(ExcellentProgrammer):
 
 ```
 ---
+
+<h3 align="center">
+<img src="https://github.com/user-attachments/assets/40405bbc-3e26-4cb6-a5aa-9a022699a583" alt="DeepMind!" width=250>
+</h3>
 
 ## :man_technologist: My Involvement with Google's Developer Programs
 
