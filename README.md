@@ -21,12 +21,12 @@ class LucasJose(ExcellentProgrammer):
 
     def __init__(self):
     
-        self.country = "Brazil"
-        self.current_city = "London_UK"
+        self.country = "Brazil 🇧🇷"
+        self.current_city = "London_UK 🇬🇧"
         self.current_job = "Research Engineer @ Google DeepMind"
         self.past_companies = ["Data Scientist Intern @ Amazon"]
-        self.universities = ["CentraleSupelec in Paris-Saclay University - France",
-                             "Aeronautics Institute of Technology (ITA) - Brazil"]
+        self.universities = ["CentraleSupelec in Paris-Saclay University - France 🇫🇷",
+                             "Aeronautics Institute of Technology (ITA) - Brazil 🇧🇷"]
 
     def im_interested_in(self):
         
