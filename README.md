@@ -76,7 +76,7 @@ As a firm believer that **AI-driven software development** with a diverse and ca
 ### :computer: Google Summer of Code (GSoC)
 
 <p align="center">
-  <img width="350" alt="Google_Summer_of_Code_logo_(2021) svg (1)" src="https://github.com/SVJLucas/SVJLucas/assets/60625769/6f445eef-31f0-4067-8cb8-22a3fb6e9bd5">
+  <img width="320" alt="Google_Summer_of_Code_logo_(2021) svg (1)" src="https://github.com/SVJLucas/SVJLucas/assets/60625769/6f445eef-31f0-4067-8cb8-22a3fb6e9bd5">
 </p>
 
 I am honored to have **participated** in the prestigious **Google Summer of Code** program, where I was one of **967 participants** selected from **43,765 applicants** across **160 countries**. As a **Researcher Contributor** in the **Machine Learning for Science Program (ML4SCI)**, I applied **Vision Transformers** to detect **space distortion caused by Dark Matter** in simulated astronomical observations, collaborating with researchers from the **USA, India, France, Germany, and England**. Paper accepted for **ML4PS workshop, NeurIPS 2023**.
