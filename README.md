@@ -133,7 +133,7 @@ I've undertaken numerous projects spanning a diverse range of fields, all of whi
 
 ## Looking forward to...
 
-I am always on the lookout for challenging opportunities in software development and data science. If you have an exciting project in mind, I'd love to chat. I'm open to collaborations, job opportunities, or even a friendly chat about technology!
+I'm always excited to take on new challenges in artificial intelligence research and software development. If you’ve got an interesting project or idea, let’s connect! I'm open to collaborations or just geeking out about tech :)
 
 
 #
