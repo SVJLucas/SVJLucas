@@ -22,10 +22,10 @@ class LucasJose(ExcellentProgrammer):
     def __init__(self):
     
         self.country = "Brazil"
-        self.current_city = "Paris_FRA"
+        self.current_city = "London_UK"
         self.current_job = "Research Engineer"
         self.past_companies = ["Amazon"]
-        self.universities = ["CentraleSupelec (CS) - France",
+        self.universities = ["CentraleSupelec in Paris-Saclay University - France",
                              "Aeronautics Institute of Technology (ITA) - Brazil"]
 
     def im_interested_in(self):
