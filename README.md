@@ -5,13 +5,13 @@
 
 ## About Me 🚀
 
-I am a versatile software developer, machine learning researcher, and data scientist, currently leading the Google Developer Student Club (GDSC) at CentraleSupelec, working on several development fronts: frontend, backend, devops, cloud, mobile, artificial intelligence. My passion lies in developing reliable and scalable software, especially backend.
+I am an **artificial intelligence researcher** and **software engineer** passionate about developing **innovative solutions** through **machine learning**. After graduating from École CentraleSupélec and the Aeronautics Institute of Technology, **I will join Google DeepMind as a Research Engineer**, focusing on **sustainability** and environmental ML solutions. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am particularly interested in how machine learning can address real-world challenges and create meaningful impact.
 
 <h3 align="center">
 <img src="https://github.com/user-attachments/assets/f99ef2a7-82e1-4405-ae78-42d661e81d2f" alt="Creating Amazing Projects!" width=250>
 </h3>
 
-I am privileged to have worked with diverse and talented teams across continents. My recent experience includes being a part of Google Summer of Code's Machine Learning for Science Program, where I researched AI in computer vision (Vision Transformers) for detecting space distortion due to Dark Matter as well working in Amazon.
+I’ve had the privilege of working on exciting projects, including research on Vision Transformers for detecting Dark Matter-induced space distortions through **Google Summer of Code**'s Machine Learning for Science Program. At **Amazon**, I strengthened my expertise in large-scale data processing. As the former lead of the Google Developer Student Club at CentraleSupélec, I helped build a thriving developer community and guided innovative projects. I’m excited about the future of AI and eager to contribute to meaningful advancements in the field :)
 
 ```yml
 from Persistence import Excellence
