@@ -1,4 +1,4 @@
-#  Lucas José
+#  Lucas José 🇧🇷
 
 **`Researcher Engineer @ Google DeepMind`**
 
