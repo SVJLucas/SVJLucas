@@ -11,7 +11,7 @@ I am an **artificial intelligence researcher** and **software engineer** passion
 <img src="https://github.com/user-attachments/assets/f99ef2a7-82e1-4405-ae78-42d661e81d2f" alt="Creating Amazing Projects!" width=250>
 </h3>
 
-I’ve had the privilege of working on exciting projects, including research on Vision Transformers for detecting Dark Matter-induced space distortions through **Google Summer of Code**'s Machine Learning for Science Program. At **Amazon**, I strengthened my expertise in large-scale data processing. As the former lead of the Google Developer Student Club at CentraleSupélec, I helped build a thriving developer community and guided innovative projects. I’m excited about the future of AI and eager to contribute to meaningful advancements in the field :)
+I’ve had the privilege of working on exciting projects, including research on Vision Transformers for detecting Dark Matter-induced space distortions through **Google Summer of Code**'s Machine Learning for Science Program. At **Amazon**, I strengthened my expertise in large-scale data processing. As the former lead of the **Google Developer Student Club** at CentraleSupélec, I helped build a thriving developer community and guided innovative projects. I’m excited about the future of AI and eager to contribute to meaningful advancements in the field :)
 
 ```yml
 from Persistence import Excellence
