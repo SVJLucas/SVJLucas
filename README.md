@@ -70,10 +70,8 @@ I'm thrilled to announce that I'll be starting a **Data Science Internship** at 
 
 </p>
 
+As a firm believer that **AI-driven software development** with a diverse and capable team can reshape our realities, **I am privileged to lead the Google Developer Student Club at CentraleSupelec**. In this role, I have led a team of developers across multiple fronts, including **artificial intelligence**, backend, frontend,and more. I am passionate about building **reliable and scalable software** and driven by the idea that our collective efforts can foster **technical innovation** and positively impact our world.  
 
-As a firm believer that joint software development with a diverse and capable team can reshape our realities, **I am privileged to lead the Google Developer Student Club at CentraleSupelec**. In this role, I am given the chance to lead a team of developers across multiple fronts including frontend, backend, devops, cloud, mobile, and artificial intelligence.
-
-Reliable and scalable software development, in conjunction with backend development, are some of my passions. I am driven by the idea that our collective efforts at the club can contribute to technical innovation and positively influence our surrounding reality.
 
 ### :computer: Google Summer of Code (GSoC)
 
@@ -81,13 +79,8 @@ Reliable and scalable software development, in conjunction with backend developm
   <img width="350" alt="Google_Summer_of_Code_logo_(2021) svg (1)" src="https://github.com/SVJLucas/SVJLucas/assets/60625769/6f445eef-31f0-4067-8cb8-22a3fb6e9bd5">
 </p>
 
+I am honored to have **participated** in the prestigious **Google Summer of Code** program, where I was one of **967 participants** selected from **43,765 applicants** across **160 countries**. As a **Researcher Contributor** in the **Machine Learning for Science Program (ML4SCI)**, I applied **Vision Transformers** to detect **space distortion caused by Dark Matter** in simulated astronomical observations, collaborating with researchers from the **USA, India, France, Germany, and England**. Paper accepted for **ML4PS workshop, NeurIPS 2023**.
 
-
-Google Summer of Code is a prestigious global program organized by Google, which offers students an enriching internship-like experience. **I am honored to have been selected as one of the 967 participants out of an initial 43,765 applicants from 160 countries.**
-
-As a Researcher Contributor in the Machine Learning for Science Program, **I am currently researching the application of artificial intelligence in computer vision, specifically Vision Transformers, for detecting space distortion due to Dark Matter in astronomical observations. The goal is to aid researchers around the world in their efforts to understand this phenomenon.**
-
-My involvement in this program has provided me with the opportunity to collaborate with researchers from diverse backgrounds and locations, including the USA, India, France, Germany, and England. I am enthusiastic about the field of astronomical research and the potential implications it holds for our understanding of the universe.
 
 
 ---
