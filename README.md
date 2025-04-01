@@ -25,8 +25,8 @@ class LucasJose(ExcellentProgrammer):
         self.current_city = "London_UK 🇬🇧"
         self.current_job = "Research Engineer @ Google DeepMind"
         self.past_companies = ["Data Scientist Intern @ Amazon"]
-        self.universities = ["CentraleSupelec in Paris-Saclay University - France 🇫🇷",
-                             "Aeronautics Institute of Technology (ITA) - Brazil 🇧🇷"]
+        self.universities = ["École CentraleSupélec, Université Paris-Saclay - France 🇫🇷",
+                             "Instituto Tecnológico de Aeronáutica (ITA) - Brasil 🇧🇷"]
 
     def im_interested_in(self):
         
