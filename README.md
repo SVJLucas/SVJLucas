@@ -11,7 +11,7 @@ I am a **computer scientist** passionate about developing **innovative solutions
 <img src="https://github.com/user-attachments/assets/f99ef2a7-82e1-4405-ae78-42d661e81d2f" alt="Creating Amazing Projects!" width=250>
 </h3>
 
-Outside of work, I love traveling to explore new countries and cultures. I'm also deeply committed to education, and I have volunteered in various countries to support those without access to learning opportunities.
+Outside of work, I love traveling to explore new countries and cultures (and languages). I'm also deeply committed to education, and I have volunteered in various countries to support those without access to learning opportunities.
 
 ```yml
 from Persistence import Excellence
