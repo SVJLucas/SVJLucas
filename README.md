@@ -2,7 +2,7 @@
 
 **`Researcher Engineer @ Google DeepMind`**
 
-_Teaching computers to learn effectively and to intelligently address complex challenges across various domains_ :)
+_Teaching computers to learn effectively and to intelligently address complex challenges across various domains._
 
 ## About Me 🚀
 
