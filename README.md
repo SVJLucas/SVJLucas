@@ -5,13 +5,13 @@
 
 ## About Me 🚀
 
-I am a **computer scientist** passionate about developing **innovative solutions** through **machine learning**. After graduating from _École CentraleSupélec_ at _Paris-Saclay University_, France, and from the _Instituto Tecnológico de Aeronáutica (ITA)_, Brazil, **I will join Google DeepMind as a Research Engineer**, focusing on **sustainability** and environmental ML solutions. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am particularly interested in how machine learning can address real-world challenges and create meaningful impact.
+I am a **computer scientist** passionate about developing **innovative solutions** through **machine learning**. After graduating from _École CentraleSupélec_ at _Paris-Saclay University_, France, and from the _Instituto Tecnológico de Aeronáutica (ITA)_, Brazil, **I will join Google DeepMind as a Research Engineer**, focusing on **sustainability** and environmental ML solutions. My research interests span computer vision, representation learning, generative models, multimodal learning, and responsible AI. I am particularly interested in how machine learning can address real-world challenges and create meaningful impact. I’m excited about the future of AI and eager to contribute to meaningful advancements in the field :)
 
 <h3 align="center">
 <img src="https://github.com/user-attachments/assets/f99ef2a7-82e1-4405-ae78-42d661e81d2f" alt="Creating Amazing Projects!" width=250>
 </h3>
 
-I’m excited about the future of AI and eager to contribute to meaningful advancements in the field :)
+Outside of work, I love traveling to explore new countries and cultures. I'm also deeply committed to education, and I have volunteered in various countries to support those without access to learning opportunities.
 
 ```yml
 from Persistence import Excellence
